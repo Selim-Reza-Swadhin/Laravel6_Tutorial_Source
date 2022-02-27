@@ -1,0 +1,23 @@
+body{
+	margin: 0;
+	font-family: serif;
+}
+
+header, footer{
+	min-height: 100px;
+	text-align: center;
+}
+
+ul li{
+	
+	list-style: none;
+}
+ul li a{
+	text-decoration: none;
+}
+
+.active{
+	background: #3898db;
+	color: #fff;
+	text-decoration: none;
+}
